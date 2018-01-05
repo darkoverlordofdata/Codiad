@@ -44,6 +44,7 @@ class fileextension_textmode
             'erb' => 'html_ruby',
             'jade' => 'jade',
             'coffee' => 'coffee',
+            'vala' => 'vala',
             'vm' => 'velocity');
 
     //////////////////////////////////////////////////////////////////

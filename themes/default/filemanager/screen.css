@@ -399,6 +399,9 @@
 #file-manager .ext-txt {
     background-image: url(images/file.png);
 }
+#file-manager .ext-vala {
+    background-image: url(images/vala.png);
+}
 #file-manager .ext-vb {
     background-image: url(images/code.png);
 }
